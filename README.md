@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there,my life changed when i start programming ... 👋
 
-<!--
-**Dies1rae/Dies1rae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... 5 TV Channel Russia
+- 🌱 I’m currently learning ... C\C++
+- 👯 I’m looking to collaborate on ... C\C++
+- 🤔 I’m looking for help with ... C\C++
+- 💬 Ask me about ... algo, obviously C\C++ basics)))), some PY or OperationSystems
+- 📫 How to reach me: ... http://cplus.tech/
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... Catch the bullet
+
