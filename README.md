@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Catch the bullet
 
 ### links:
-[<img align="left" alt="cplus.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="cplus.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]http://cplus.tech/[website]
 
 [<img align="left" alt="DiesIra82600636 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
