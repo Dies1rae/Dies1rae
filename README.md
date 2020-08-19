@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... 5 TV Channel Russia
+- 🔭 I’m currently working on many projects with C\C++ lang to learn and improve my skills on it.
 - 🌱 I’m currently learning advanced C\C++
 - 👯 I’m looking to collaborate on C\C++
 - 🤔 I’m looking for help with C\C++
