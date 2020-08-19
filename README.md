@@ -13,9 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Catch the bullet
 
 ### links:
-[<img align="left" alt="cplus.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]http://cplus.tech/[website]
+[<img align="left" alt="cplus.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][M]
+[<img align="left" alt="DiesIrae | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="DiesIrae | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="DiesIra82600636 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[<img align="left" alt="nikolay-poltavskiy-2019 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+
+[M]: http://cplus.tech/
+[T]: https://twitter.com/DiesIra82600636
+[L]: https://www.linkedin.com/in/nikolay-poltavskiy-2019
