@@ -36,3 +36,5 @@ Here are some ideas to get you started:
 [L]: https://www.linkedin.com/in/nikolay-poltavskiy-2019
 </br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivirinter&show_icons=true&locale=en" alt="Dies1rae" /></p>
+</br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivirinter&show_icons=true&locale=en&layout=compact" alt="Dies1rae" /></p>
