@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 [M]: http://cplus.tech/
 [T]: https://twitter.com/DiesIra82600636
 [L]: https://www.linkedin.com/in/nikolay-poltavskiy-2019
-
+</br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivirinter&show_icons=true&locale=en" alt="Dies1rae" /></p>
