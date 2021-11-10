@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on C\C++
 - 🤔 I’m looking for help with C\C++
 - 💬 Ask me about algo, data structures, obviously C\C++ basics)))), some PY or OperationSystems
-- 📫 How to reach me: http://cplus.tech/
+- 📫 How to reach me: https://twitter.com/Dies_Ira3
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Catch the bullet, run, workout, climbing
 
