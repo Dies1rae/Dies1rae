@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="C++" width="26px" src="https://www.pngkit.com/png/full/115-1152656_c-plus-plus-icon-c-c-white-icon.png" />
 <img align="left" alt="PHP" width="26px" src="https://www.iconninja.com/files/688/635/714/black-php-icon.png" />
-
+<img align="left" alt="SVN" width="26px" src="https://www.logo.wine/a/logo/Apache_Subversion/Apache_Subversion-Logo.wine.svg" />
+<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
+<img align="left" alt="QT" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" />
 
 
 [M]: http://cplus.tech/
