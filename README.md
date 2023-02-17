@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about algo, data structures, obviously C\C++ basics)))), some PY or OperationSystems
 - 📫 How to reach me: https://twitter.com/Dies_Ira3
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Catch the bullet, run, workout, climbing
+- ⚡ HObbies: Moto, run, workout, climbing
 
 ### links:
 [<img align="left" alt="cplus.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][M]
